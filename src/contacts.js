@@ -1,23 +1,25 @@
 const contacts = [
   {
-    name: "Beyonce",
+    name: "Sid Border",
     imgURL:
-      "https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg",
-    phone: "+123 456 789",
-    email: "b@beyonce.com"
+      "https://avatars.githubusercontent.com/u/54456279?v=4",
+    phone: "+919426944582",
+    email: "sb943@snu.edu.in"
   },
   {
-    name: "Jack Bauer",
+    name: "Jagrat Patel",
     imgURL:
-      "https://pbs.twimg.com/profile_images/625247595825246208/X3XLea04_400x400.jpg",
-    phone: "+987 654 321",
-    email: "jack@nowhere.com"
+      "https://pbs.twimg.com/profile_images/1392055839205171203/8Sy7gQlY_400x400.jpg",
+    phone: "+917405095530",
+    email: "jp542@snu.edu.in"
   },
   {
-    name: "Chuck Norris",
+    name: "Kevin",
     imgURL:
-      "https://i.pinimg.com/originals/e3/94/47/e39447de921955826b1e498ccf9a39af.png",
-    phone: "+918 372 574",
-    email: "gmail@chucknorris.com"
+      "https://www.mycareerexpress.com/result/big_img/Kevin%20Chauhan426.jpeg",
+    phone: "+917433026670",
+    email: "kevin@gmail.com"
   }
 ];
+
+export default contacts;
