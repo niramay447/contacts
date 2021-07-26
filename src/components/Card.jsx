@@ -8,7 +8,7 @@ function Card(props){
               <h2 className="name">{props.name}</h2>
               <img
                 className="circle-img"
-                src= {props.imgSrc}
+                src= {props.imgURL}
                 alt="avatar_img"
               />
             </div>
